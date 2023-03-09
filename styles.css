@@ -1,0 +1,79 @@
+body {
+    font-family: "Sofia", sans-serif;
+    background-color: #3ff2f2;
+    text-align: center;
+    color: purple;
+    text-decoration: underline;
+}
+
+img {
+
+    width: 500px;
+    height: 300px;
+}
+
+.questions1 {
+    display: none;
+}
+
+.question2 {
+    display: none;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px;
+    display: none;
+}
+
+.r1 {
+    display: none;
+}
+
+.Spiderman {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px;
+    width: 400px;
+    display: none;
+}
+
+.Superman {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px;
+    width: 400px;
+    display: none;
+}
+
+.America {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px;
+    width: 400px;
+    display: none;
+}
+
+.Batman {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px;
+    width: 400px;
+    display: none;
+}
+
+.result {
+    
+    display: none;
+}
